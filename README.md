@@ -5,5 +5,5 @@
 ## (PT-BR) 
 Esse é um espaço para apresentar um pouco das minhas habilidade em python com pequenos programas simples para ser usado no dia a dia.
 
-## (En-US)
+## (EN-US)
 This is a space to show some of my skills in python with small simple programs to be used on a daily basis.
